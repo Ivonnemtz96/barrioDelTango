@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Love Bite | Wedding Agency HTML Template | Home Page 05 Single</title>
+    <title>Barrio del Tango</title>
     <!-- Stylesheets -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">

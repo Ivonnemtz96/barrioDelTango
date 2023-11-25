@@ -5,9 +5,9 @@
             <div class="top-left">
                 <!-- Info List -->
                 <ul class="list-style-one">
-                    <li><i class="fal fa-clock"></i> Mon - Fri: 09.00am - 10.00 pm</li>
+                    <li><i class="fal fa-clock"></i> Lun - Dom: 09:00am - 10:00 pm</li>
                     <li><i class="fa fa-envelope"></i> <a href="#"
-                            class="mailto:support@lovebite.com">support@lovebite.com</a></li>
+                            class="mailto:info@barriodeltango.com">info@barriodeltango.com</a></li>
                 </ul>
             </div>
 
@@ -15,19 +15,10 @@
                 <!-- Social Icon One -->
                 <ul class="social-icon-two">
                     <li>
-                        <a href="#"><i class="icon fab fa-twitter"></i></a>
-                    </li>
-                    <li>
                         <a href="#"><i class="icon fab fa-facebook-f"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="icon fab fa-linkedin-in"></i></a>
-                    </li>
-                    <li>
                         <a href="#"><i class="icon fab fa-instagram"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="icon fab fa-pinterest-p"></i></a>
                     </li>
                 </ul>
             </div>
@@ -40,7 +31,7 @@
         <div class="main-box">
             <div class="logo-box">
                 <div class="logo">
-                    <a href="index.html"><img src="images/logo.png" alt="" title="Love Bite" /></a>
+                    <a href="index.html"><img src="images/01.png?=1" alt="" title="Barrio del tango" /></a>
                 </div>
             </div>
 
@@ -48,29 +39,19 @@
             <div class="nav-outer">
                 <nav class="nav main-menu">
                     <ul class="navigation onepage-nav">
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#about">Story</a></li>
-                        <li><a href="#memory">Gallery</a></li>
-                        <li><a href="#team">Team</a></li>
-                        <li><a href="#pricing">Pricing</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li><a href="#news">News</a></li>
+                        <li><a href="#home">Inicio</a></li>
+                        <li><a href="#about">Nosotros</a></li>
+                        <li><a href="#memory">Galería</a></li>
+                        <li><a href="#team">Servicios</a></li>
+                        <li><a href="#contactar">Contacto</a></li>
                     </ul>
                 </nav>
                 <!-- Main Menu End-->
                 <div class="outer-box">
-                    <!-- Header Search -->
-                    <button class="login-btn">
-                        <i class="fal fa-shopping-cart"></i>
-                        <span>0</span>
-                    </button>
-                    <button class="search-btn">
-                        <i class="fal fa-search"></i>
-                    </button>
+                    
                     <div class="divider"></div>
-                    <span class="contact"><i class="icon fa fa-headphones"></i>+36 55 540 069</span>
-                    <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Appointment
-                            Now</span></a>
+                    <span class="contact"><i class="icon fa fa-headphones"></i><a href="tel:+526241234560">+52 624 123 4560</a></span>
+                    <a href="#contactar" class="theme-btn btn-style-one"><span class="btn-title">Reserva Ahora</span></a>
                     <!-- Mobile Nav toggler -->
                     <div class="mobile-nav-toggler"><span class="icon lnr-icon-bars"></span></div>
                 </div>
@@ -85,7 +66,7 @@
         <nav class="menu-box">
             <div class="upper-box">
                 <div class="nav-logo">
-                    <a href="index.html"><img src="images/logo.png" alt="" title="LoveBite" /></a>
+                    <a href="index.html"><img src="images/01.png" alt="" title="LoveBite" /></a>
                 </div>
                 <div class="close-btn"><i class="icon fa fa-times"></i></div>
             </div>
@@ -95,24 +76,22 @@
             <ul class="contact-list-one">
                 <li>
                     <i class="icon lnr-icon-phone-handset"></i>
-                    <span class="title">Call Now</span>
-                    <div class="text"><a href="tel:+92880098670">+92 (8800) - 98670</a></div>
+                    <span class="title">Márcanos</span>
+                    <div class="text"><a href="tel:+521234567890"> +52 132 456 7890</a></div>
                 </li>
                 <li>
                     <i class="icon lnr-icon-envelope1"></i>
-                    <span class="title">Send Email</span>
-                    <div class="text"><a href="mailto:help@company.com">help@company.com</a></div>
+                    <span class="title">Correo</span>
+                    <div class="text"> <a href="mailto:info@barriodeltango.com">info@barriodeltango.com</a></div>
                 </li>
                 <li>
                     <i class="icon lnr-icon-map-marker"></i>
-                    <span class="title">Address</span>
-                    <div class="text">66 Broklyant, New York India 3269</div>
+                    <span class="title">Dirección</span>
+                    <div class="text">Morelos Mz 19 Lte 2 Esquina, Coronado, Centro, San José del Cabo.</div>
                 </li>
             </ul>
             <ul class="social-links">
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
             </ul>
         </nav>
@@ -120,19 +99,7 @@
     <!-- End Mobile Menu -->
 
     <!-- Header Search -->
-    <div class="search-popup">
-        <span class="search-back-drop"></span>
-        <button class="close-search"><span class="fa fa-times"></span></button>
-
-        <div class="search-inner">
-            <form method="post" action="https://kodesolution.com/html/2023/lovebite-html/index.html">
-                <div class="form-group">
-                    <input type="search" name="search-field" value="" placeholder="Search..." required="" />
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                </div>
-            </form>
-        </div>
-    </div>
+  
     <!-- End Header Search -->
 
     <!-- Sticky Header  -->
@@ -141,7 +108,7 @@
             <div class="inner-container">
                 <!--Logo-->
                 <div class="logo">
-                    <a href="index.html" title=""><img src="images/logo.png" alt="" title="Love Bite" /></a>
+                    <a href="index.html" title=""><img src="images/01.png" alt="" title="barrio del tango" /></a>
                 </div>
 
                 <!--Right Col-->
