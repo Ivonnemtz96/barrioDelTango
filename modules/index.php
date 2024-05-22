@@ -1,14 +1,14 @@
 <!-- banner-section -->
 <section id="home" class="banner-section">
     <div class="curve"></div>
-    <div class="bg bg-image" style="background-image: url(images/banner/6.jpg)"></div>
+    <div class="bg bg-image" style="background-image: url(images/banner/07.webp)"></div>
     <div class="auto-container">
         <div class="outer-box">
             <div class="content-box">
                 <div class="icon-leave-4 wow fadeInUp"></div>
                 <div class="icon-leave-4 style-two wow fadeInUp"></div>
-                <span class="sub-title wow fadeInUp" data-wow-delay="600ms">Celebrando con cada bocado la</span>
-                <h1 class="title wow fadeInUp" data-wow-delay="900ms">Fiesta de <br />Ensueño</h1>
+                <span class="sub-title wow fadeInUp" data-wow-delay="600ms">Disfruta de una </span>
+                <h1 class="title wow fadeInUp" data-wow-delay="900ms">Deliciosa <br />Cena</h1>
             </div>
         </div>
     </div>
@@ -30,8 +30,8 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="text">
-                        Estamos preparados para sorprender a tus invitados con nuestro servicio de catering para que tu
-                        evento cree recuerdos inolvidables.
+                        Disfruta de nuestros exquisitos cortes y música en vivo. <br>
+                        Deja que nuestros platillos hablen por nosotros.
                     </div>
                 </div>
             </div>
@@ -43,9 +43,9 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/4.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/23.webp" alt="" /></a>
                         </figure>
-                        <h6 class="title"><a href="#contactar">Bodas</a></h6>
+                        <h6 class="title"><a href="#contactar">Cortes</a></h6>
                     </div>
                 </div>
             </div>
@@ -55,9 +55,9 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/3.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/24.webp" alt="" /></a>
                         </figure>
-                        <h6 class="title"><a href="#contactar">Cumpleaños</a></h6>
+                        <h6 class="title"><a href="#contactar">Música en vivo</a></h6>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/2.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/25.webp" alt="" /></a>
                         </figure>
                         <h6 class="title"><a href="#contactar">Aniversarios</a></h6>
                     </div>
@@ -78,7 +78,7 @@
                 <div class="inner-box">
                     <div class="image-box">
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/1.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/26.webp" alt="" /></a>
                         </figure>
                         <h6 class="title"><a href="#contactar">Cenas románticas</a></h6>
                     </div>
@@ -100,7 +100,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image overlay-anim-two">
-                        <a href="images/resource/5.jpg" class="lightbox-image"><img src="images/resource/5.jpg"
+                        <a href="images/resource/27.webp" class="lightbox-image"><img src="images/resource/27.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Wedding Cake</a></h4> -->
@@ -111,7 +111,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/6.jpg" class="lightbox-image"><img src="images/resource/6.jpg"
+                        <a href="images/resource/28.webp" class="lightbox-image"><img src="images/resource/28.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Wedding Feast</a></h4> -->
@@ -122,7 +122,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/7.jpg" class="lightbox-image"><img src="images/resource/7.jpg"
+                        <a href="images/resource/29.webp" class="lightbox-image"><img src="images/resource/29.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Wedding Flower</a></h4> -->
@@ -133,7 +133,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/8.jpg" class="lightbox-image"><img src="images/resource/8.jpg"
+                        <a href="images/resource/30.webp" class="lightbox-image"><img src="images/resource/30.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Wedding Stage</a></h4> -->
@@ -144,7 +144,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/9.jpg" class="lightbox-image"><img src="images/resource/9.jpg"
+                        <a href="images/resource/31.webp" class="lightbox-image"><img src="images/resource/31.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Foods & Snaks</a></h4> -->
@@ -155,7 +155,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/10.jpg" class="lightbox-image"><img src="images/resource/10.jpg"
+                        <a href="images/resource/32.webp" class="lightbox-image"><img src="images/resource/32.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -167,7 +167,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/11.jpg" class="lightbox-image"><img src="images/resource/11.jpg"
+                        <a href="images/resource/33.webp" class="lightbox-image"><img src="images/resource/33.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -179,7 +179,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/12.jpg" class="lightbox-image"><img src="images/resource/12.jpg"
+                        <a href="images/resource/38.webp" class="lightbox-image"><img src="images/resource/38.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -191,7 +191,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/13.jpg" class="lightbox-image"><img src="images/resource/13.jpg"
+                        <a href="images/resource/34.webp" class="lightbox-image"><img src="images/resource/34.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -203,7 +203,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/14.jpg" class="lightbox-image"><img src="images/resource/14.jpg"
+                        <a href="images/resource/35.webp" class="lightbox-image"><img src="images/resource/35.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -215,7 +215,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/15.jpg" class="lightbox-image"><img src="images/resource/15.jpg"
+                        <a href="images/resource/36.webp" class="lightbox-image"><img src="images/resource/36.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -227,7 +227,7 @@
             <div class="inner-box">
                 <div class="image-box">
                     <figure class="image">
-                        <a href="images/resource/16.jpg" class="lightbox-image"><img src="images/resource/16.jpg"
+                        <a href="images/resource/37.webp" class="lightbox-image"><img src="images/resource/37.webp"
                                 alt="Image" /></a>
                     </figure>
                     <!-- <h4 class="title"><a href="#">Photography</a></h4> -->
@@ -245,23 +245,23 @@
             <div class="content-column col-lg-6 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="600ms">
                 <div class="inner-column">
                     <h3 class="title">
-                        Déjanos ser parte de tu celebración y consentirte a ti y a tus invitados con nuestros excelentes
-                        servicios.
+                        También manejamos servicio de Catering para tus eventos.
                     </h3>
                 </div>
             </div>
             <div class="info-column col-lg-6 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="600ms">
                 <div class="inner-column">
                     <div class="text">
-                        <span>H</span>
-                        <p>az de tu evento algo extraordinario. Estamos aquí para convertir tus ideas en una experiencia
-                            gastronómica inolvidable.</p>
+                        <span>e</span>
+                        <p>
+                            l arte de la carne alcanza su máxima expresión aquí. ¡Descubre la perfección en cada corte!
+                        </p>
                     </div>
-                    <div class="text-two">Tu evento merece más que comida, merece una experiencia culinaria excepcional.
-                    </div>
+                    <!-- <div class="text-two">Tu evento merece más que comida, merece una experiencia culinaria excepcional.
+                    </div> -->
                     <ul class="list-style-one">
-                        <li><i class="icon fa fa-circle-check"></i>Banquete</li>
-                        <li><i class="icon fa fa-circle-check"></i>Buffet</li>
+                        <li><i class="icon fa fa-circle-check"></i>Cortes</li>
+                        <li><i class="icon fa fa-circle-check"></i>Bebidas</li>
                     </ul>
                     <div class="exp-box">
                         <span class="icon-flower-1"></span>
@@ -278,9 +278,9 @@
                     <div class="inner">
                         <div class="content">
                             <span class="icon-flower-2"></span>
-                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="30">0</span>+
+                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="200">0</span>+
                             </div>
-                            <h6 class="counter-title">Eventos</h6>
+                            <h6 class="counter-title">Clientes satisfechos</h6>
                         </div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                             <span class="icon-flower-2"></span>
                             <div class="count-box"><span class="count-text" data-speed="3000" data-stop="20">0</span>+
                             </div>
-                            <h6 class="counter-title">Ceremonias</h6>
+                            <h6 class="counter-title">Platillos</h6>
                         </div>
                     </div>
                 </div>
@@ -300,9 +300,9 @@
                     <div class="inner">
                         <div class="content">
                             <span class="icon-flower-2"></span>
-                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="10">0</span>+
+                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="5">0</span>+
                             </div>
-                            <h6 class="counter-title">Tipos de menú</h6>
+                            <h6 class="counter-title">Años de experiencia</h6>
                         </div>
                     </div>
                 </div>
@@ -311,9 +311,9 @@
                     <div class="inner">
                         <div class="content">
                             <span class="icon-flower-2"></span>
-                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="150">0</span>+
+                            <div class="count-box"><span class="count-text" data-speed="3000" data-stop="50">0</span>+
                             </div>
-                            <h6 class="counter-title">Clientes satisfechos</h6>
+                            <h6 class="counter-title">Eventos</h6>
                         </div>
                     </div>
                 </div>
@@ -344,14 +344,14 @@
                         <!-- Accordian Block -->
                         <li class="accordion block active-block">
                             <div class="acc-btn active">
-                                <span>01</span>Pregunta 1
+                                <span>01</span>¿Necesito reservación?
                                 <div class="icon fa fa-plus"></div>
                             </div>
                             <div class="acc-content current">
                                 <div class="content">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum
-                                        magnam, ipsam a reiciendis beatae.
+                                        Manejamos servicio de reservación a través de nuestras diferentes redes
+                                        sociales, pero puede llegar al restaurante y lo estaremos atendiendo con gusto.
                                     </div>
                                 </div>
                             </div>
@@ -360,14 +360,14 @@
                         <!-- Accordian Block -->
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <span>02</span> Pregunta 2
+                                <span>02</span> ¿Tienen servicio de catering?
                                 <div class="icon fa fa-plus"></div>
                             </div>
                             <div class="acc-content">
                                 <div class="content">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum
-                                        magnam, ipsam a reiciendis beatae.
+                                        Manejamos servicio de catering para bodas, aniversarios, cumpleaños y más. Ponte
+                                        en contacto con nosotros para más información.
                                     </div>
                                 </div>
                             </div>
@@ -376,14 +376,14 @@
                         <!-- Accordian Block -->
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <span>03</span> Pregunta 3
+                                <span>03</span> ¿Tienen opciones veganas?
                                 <div class="icon fa fa-plus"></div>
                             </div>
                             <div class="acc-content">
                                 <div class="content">
                                     <div class="text">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum
-                                        magnam, ipsam a reiciendis beatae.
+                                        Nuestro extenso menú maneja opciones veganas para que disfruten de nuestros
+                                        exquisitos platillos sin problema.
                                     </div>
                                 </div>
                             </div>
@@ -430,7 +430,7 @@
                         <span class="icon-flower-4"></span>
                         <span class="icon-flower-5"></span>
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/19.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/43.webp" alt="" /></a>
                         </figure>
                     </div>
                     <div class="content-box">
@@ -445,7 +445,7 @@
                         <span class="icon-flower-4"></span>
                         <span class="icon-flower-5"></span>
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/20.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/41.webp" alt="" /></a>
                         </figure>
                     </div>
                     <div class="content-box">
@@ -476,7 +476,7 @@
                         <span class="icon-flower-4"></span>
                         <span class="icon-flower-5"></span>
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/18.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/42.webp" alt="" /></a>
                         </figure>
                     </div>
                     <div class="content-box">
@@ -492,7 +492,7 @@
                         <span class="icon-flower-4"></span>
                         <span class="icon-flower-5"></span>
                         <figure class="image">
-                            <a href="#contactar"><img src="images/resource/22.jpg" alt="" /></a>
+                            <a href="#contactar"><img src="images/resource/44.webp" alt="" /></a>
                         </figure>
                     </div>
                     <div class="content-box">
